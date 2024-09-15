@@ -6,7 +6,7 @@ This is a repository where we will be developing and deploying our AYUSH Portal.
 
 ## Next Goal: Push the first working prototype of the Landing Page
 
-### The following are our future goals still in development
+### The following are our future goals, still in development
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4cfb9801-f06e-41f4-ae8f-15455da9f667" alt="Ayush" width="200">

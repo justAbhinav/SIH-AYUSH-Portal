@@ -81,7 +81,6 @@ This AYUSH Portal is our attempt to transform the entrepreneurial landscape in I
 - Socket IO
 - Tailwind
 - Chakra UI
-- 
 
 ### Database
 
